@@ -160,7 +160,7 @@ Higher dNBR values indicate greater burn severity.
 
 The difference in normalized burn ratio highlights areas where vegetation was destroyed by the wildfire.
 
-![Burn Severity](maps/Dnbr_burn_severity.jpeg)
+![Burn Severity](maps/IMG_0294.jpeg)
 
 ---
 
